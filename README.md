@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcute-animation-gifs&psig=AOvVaw2l2z6Frfzjc45b_UN61si1&ust=1693486486388000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDCs_W2hIEDFQAAAAAdAAAAABAE)" alt="Snake animation" />
 
 ###- 👋 Hi, I’m @NaufalPratomo
 - 👀 I’m interested in ...
