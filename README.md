@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
            <a href="https://youtube.com/@naufalpratomo6699?si=TcCmcVGPu1Ss_VxF" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-             <a href="www.linkedin.com/in/naufalpratomo" target="_blank">
+            <a href="https://www.linkedin.com/in/naufal-pratomo-3099671b0/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
