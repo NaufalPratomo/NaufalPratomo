@@ -3,9 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaufalPratomo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaufalPratomo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalPratomo&" alt="NaufalPratomo" />
+ <p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NaufalPratomo&show_icons=true&theme=tokyonight&locale=en" alt="NaufalPratomo" width="45%"/>
+  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalPratomo&theme=tokyonight&locale=en" alt="NaufalPratomo" width="48%"/>
+  
+</p> 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaufalPratomo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="NaufalPratomo" /> 
+</p>
 </div>
 
 ###
