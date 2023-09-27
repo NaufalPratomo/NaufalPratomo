@@ -5,6 +5,7 @@
 <div align="center">
  <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=NaufalPratomo&show_icons=true&theme=tokyonight&locale=en" alt="NaufalPratomo" width="45%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalPratomo&" alt="NaufalPratomo" />
   
 </p> 
 <p align="center">
