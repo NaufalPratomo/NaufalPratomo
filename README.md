@@ -1,17 +1,13 @@
-<h2 align="left">Hi 👋! My name is Naufal and I'm a student, from Polytechnic State of Malang</h2>
+<h2 align="left">Hi 🤩! I'm Naufal and I'm a student, from Polytechnic State of Malang</h2>
 
 ###
 
 <div align="center">
  <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=NaufalPratomo&show_icons=true&theme=tokyonight&locale=en" alt="NaufalPratomo" width="45%"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalPratomo&" alt="NaufalPratomo" />
+
   
-</p> 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaufalPratomo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="NaufalPratomo" /> 
-</p>
-</div>
+
 
 ###
 
