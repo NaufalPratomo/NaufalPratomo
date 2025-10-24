@@ -3,7 +3,7 @@
 # Hello! I'm Muhammad Naufal Pratomo 👋
 
 <p>
-  I am an <strong>Information Technology</strong> student at the <strong>State Polytechnic of Malang</strong> with a strong passion for web development, specializing in <strong>Back-End Development</strong>. I enjoy turning ideas into functional, efficient, and reliable web applications, primarily using PHP and Laravel.
+  I am an <strong>Information Technology</strong> student at the <strong>State Polytechnic of Malang</strong> with a strong passion for web development. I enjoy turning ideas into functional, efficient, and reliable web applications, primarily using PHP and Laravel.
 </p>
 
 </div>
