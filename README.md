@@ -1,72 +1,70 @@
 <div align="center">
 
-# Hello! I'm Muhammad Naufal Pratomo
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2890FA&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Muhammad+Naufal+Pratomo;Informatics+Student;System+Analyst;Web+Developer" alt="Typing SVG" />
 
-<p>
-  I am a 5th-semester <strong>Informatics Engineering</strong> student at <strong>State Polytechnic of Malang</strong> with a strong passion for system analysis and web development. Experienced in building full-stack applications and translating user needs into technical specifications.
-</p>
+  <p>
+    I am a 5th-semester <strong>Informatics Engineering</strong> student at <strong>State Polytechnic of Malang</strong> with a strong passion for <strong>System Analysis</strong>, <strong>Web Development</strong>, and <strong>IoT</strong>. <br/>
+    Experienced in building full-stack applications and translating user needs into technical specifications.
+  </p>
+
+  <p align="center">
+    <a href="https://www.naufalpratomo.my.id" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-www.naufalpratomo.my.id-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/naufalpratomo/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+    <a href="mailto:naufalpratomo8@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### My Tech Stack
-
-<p align="center">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="55" height="55"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="55" height="55"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/> 
-  </a>
-</p>
-
----
-
-### My GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaufalPratomo&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="NaufalPratomo's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalPratomo&theme=tokyonight&layout=compact&hide_border=true" alt="NaufalPratomo's Top Langs" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalPratomo&theme=tokyonight&hide_border=true" alt="Naufal's Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaufalPratomo&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="NaufalPratomo's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalPratomo&theme=tokyonight&layout=compact&hide_border=true" alt="NaufalPratomo's Top Langs" height="165"/>
 </div>
 
 ---
 
-### Let's Connect
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naufalpratomo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/naufalpratomo27/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:naufalpratomo8@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
-  </a>
-</p>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-### Portofolio
-<p align="center">
-  <a href="https://www.naufalpratomo.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-www.naufalpratomo.my.id-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
-  </a>
-</p>
+  <br/>
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NaufalPratomo&label=Profile%20Views&color=blue&style=flat-square" alt="watchers" />
+</div>
