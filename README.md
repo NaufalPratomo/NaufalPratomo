@@ -2,10 +2,10 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2890FA&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Muhammad+Naufal+Pratomo;Informatics+Student;System+Analyst;Web+Developer" alt="Typing SVG" />
 
-  <p>
-    I am a 6th-semester <strong>Informatics Engineering</strong> student at <strong>State Polytechnic of Malang</strong> with a strong passion for <strong>System Analysis</strong>, <strong>Web Development</strong>, and <strong>IoT</strong>. <br/>
-    Experienced in building full-stack applications and translating user needs into technical specifications.
-  </p>
+<p>
+  I am an <strong>Informatics Engineering</strong> student at the <strong>State Polytechnic of Malang</strong> with a strong passion for <strong>System Analysis</strong>, <strong>Web Development</strong>, and <strong>IoT</strong>. <br/>
+  Experienced in building full-stack applications and translating user needs into technical specifications.
+</p>
 
   <p align="center">
     <a href="https://www.naufalpratomo.my.id" target="_blank">
